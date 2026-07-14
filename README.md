@@ -11,3 +11,5 @@ Este é um projeto Flutter básico para o aplicativo `petcare`.
 ## Sobre
 
 Aplicativo inicial com lista de pets e lembretes de visitas.
+
+Você pode adicionar novos pets pelo botão **+**.
